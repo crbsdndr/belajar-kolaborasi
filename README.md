@@ -1,3 +1,4 @@
 # Belajar Kolaborasi
-Belajar kolaborasi bersama Dicoding!
-Tapi, aku kesulitaan mempelajarinya
+Belajar kolaborasi bersama Dicoding! <br>
+Tapi, aku kesulitaan mempelajarinya <br>
+Untungnya ada Dicoding
